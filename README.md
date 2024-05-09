@@ -7,4 +7,7 @@ Apache Kafka: Distributed streaming platform.<br/>
 Cassandra: NoSQL database for high-availability storage.<br/>
 
 The provided build.sh script automates building the JAR and copying it to the Hadoop master node. Simply run:
-./build.sh
+
+```
+$ bash build.sh
+```
