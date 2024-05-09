@@ -8,8 +8,6 @@ The provided build.sh script automates building the JAR and copying it to the Ha
 $ bash build.sh
 ```
 
-## Production
-
 
 ## Technologies Used
 Apache Spark: Real-time data processing framework.<br/>
